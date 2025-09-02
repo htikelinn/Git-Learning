@@ -4,3 +4,6 @@
 [submodule "gitlearning/gittwo"]
 	path = gitlearning/gittwo
 	url = git@github.com:htikelinn/gittow.git
+[submodule "gitlearning/project_A"]
+	path = gitlearning/project_A
+	url = https://github.com/htikelinn/project_A.git
