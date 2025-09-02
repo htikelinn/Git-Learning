@@ -1,6 +1,7 @@
 [submodule "gitlearning/gitone"]
 	path = gitlearning/gitone
 	url = git@github.com:htikelinn/gitone.git
-[submodule "gitlearning/gitlearning/gittow"]
-	path = gitlearning/gitlearning/gittow
+
+[submodule "gitlearning/gitwo"]
+	path = gitlearning/gittwo
 	url = git@github.com:htikelinn/gittow.git
