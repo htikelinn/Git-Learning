@@ -7,3 +7,6 @@
 [submodule "gitlearning/project_A"]
 	path = gitlearning/project_A
 	url = https://github.com/htikelinn/project_A.git
+[submodule "gitlearning/gitthree"]
+	path = gitlearning/gitthree
+	url = https://github.com/htikelinn/learn-git.git
