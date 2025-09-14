@@ -1,3 +1,10 @@
 {
-    "codeMindMap.autoSavePath": "/home/uhtin/Workspace/Git/CodeMindMap.txt"
+  "codeMindMap.autoSavePath": "/home/uhtin/Workspace/Git/Git.txt",
+  "cSpell.words": ["mern"],
+  // Place your settings in this file to overwrite default and user settings.
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "markdown-preview-github-styles.colorTheme": "dark_colorblind",
+  "markdown.styles": ["github-markdown.css"],
 }

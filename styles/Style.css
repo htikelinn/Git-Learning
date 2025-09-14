@@ -1,0 +1,64 @@
+/* This is a comment in CSS */
+
+/* --- Body and general layout styles --- */
+body {
+  font-family: Arial, sans-serif; /* Sets the default font for the entire page */
+  line-height: 1.6; /* Adjusts the spacing between lines of text */
+  margin: 0; /* Removes default browser margin */
+  padding: 20px; /* Adds padding inside the body element */
+  background-color: #f4f4f4; /* Sets a light gray background color */
+  color: #333; /* Sets the default text color to a dark gray */
+}
+
+/* --- Heading styles --- */
+h1 {
+  color: #0056b3; /* A dark blue for the main heading */
+  text-align: center; /* Centers the heading text */
+  margin-bottom: 10px; /* Adds space below the heading */
+}
+
+h2 {
+  color: #2c3e50; /* A slightly different blue-gray for subheadings */
+  border-bottom: 2px solid #2c3e50; /* Adds a solid line under the subheading */
+  padding-bottom: 5px; /* Adds a little space between the text and the line */
+}
+
+/* --- Link styles --- */
+a {
+  color: #007bff; /* A standard blue for links */
+  text-decoration: none; /* Removes the default underline from links */
+}
+
+a:hover {
+  text-decoration: underline; /* Adds an underline when a user hovers over the link */
+}
+
+/* --- Button styles --- */
+.button {
+  display: inline-block; /* Allows for setting padding and margin */
+  padding: 10px 20px; /* Adds padding inside the button */
+  background-color: #28a745; /* A vibrant green background */
+  color: white; /* White text on the button */
+  border-radius: 5px; /* Rounds the corners of the button */
+  text-transform: uppercase; /* Changes text to all uppercase */
+}
+
+.button:hover {
+  background-color: #218838; /* A darker green on hover */
+}
+
+/* --- Container and card styles --- */
+.container {
+  max-width: 960px; /* Sets a maximum width for the container */
+  margin: 20px auto; /* Centers the container on the page */
+  background-color: white; /* White background for the container content */
+  padding: 20px; /* Padding inside the container */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for a "card" effect */
+}
+
+.card {
+  border: 1px solid #ccc; /* A light gray border for the card */
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
